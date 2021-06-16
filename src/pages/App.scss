@@ -1,0 +1,6 @@
+@use '../abstract/colors.scss' as *;
+
+.app {
+  height: 100%;
+  background-color: $highlight;
+}
