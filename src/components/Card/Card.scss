@@ -6,4 +6,16 @@
   border-radius: 5px;
   width: 100%;
   height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 1rem;
+
+  &__image-container {
+    background-color: colors.$primaryLight;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+  }
 }
