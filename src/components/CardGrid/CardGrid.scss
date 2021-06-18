@@ -1,0 +1,28 @@
+.card-grid {
+  width: 100%;
+  margin: auto;
+  padding: 1rem;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, 140px);
+  gap: 1rem;
+}
+
+@media (min-width: 500px) {
+  .card-grid {
+    grid-template-columns: repeat(3, 150px);
+  }
+}
+
+@media (min-width: 700px) {
+  .card-grid {
+    grid-template-columns: repeat(4, 150px);
+  }
+}
+
+@media (min-width: 1000px) {
+  .card-grid {
+    width: 1000px;
+    grid-template-columns: repeat(6, 150px);
+  }
+}
