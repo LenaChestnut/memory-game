@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Elf",
+    "img": "./images/1.png",
+    "img-high-res": "./images/1@2x.png"
+  },
+  {
+    "id": 2,
+    "name": "Nisse",
+    "img": "./images/2.png",
+    "img-high-res": "./images/2@2x.png"
+  },
+  {
+    "id": 3,
+    "name": "Vittra",
+    "img": "./images/3.png",
+    "img-high-res": "./images/3@2x.png"
+  },
+  {
+    "id": 4,
+    "name": "Woffs",
+    "img": "./images/4.png",
+    "img-high-res": "./images/4@2x.png"
+  },
+  {
+    "id": 5,
+    "name": "Deerfox",
+    "img": "./images/5.png",
+    "img-high-res": "./images/5@2x.png"
+  },
+  {
+    "id": 6,
+    "name": "Ghosts",
+    "img": "./images/6.png",
+    "img-high-res": "./images/6@2x.png"
+  },
+  {
+    "id": 7,
+    "name": "Giants",
+    "img": "./images/7.png",
+    "img-high-res": "./images/7@2x.png"
+  },
+  {
+    "id": 8,
+    "name": "Trolls",
+    "img": "./images/8.png",
+    "img-high-res": "./images/8@2x.png"
+  },
+  {
+    "id": 9,
+    "name": "Marra",
+    "img": "./images/9.png",
+    "img-high-res": "./images/9@2x.png"
+  },
+  {
+    "id": 10,
+    "name": "Barghest",
+    "img": "./images/10.png",
+    "img-high-res": "./images/10@2x.png"
+  },
+  {
+    "id": 11,
+    "name": "Thunderbird",
+    "img": "./images/11.png",
+    "img-high-res": "./images/11@2x.png"
+  },
+  {
+    "id": 12,
+    "name": "Tide Mice",
+    "img": "./images/12.png",
+    "img-high-res": "./images/12@2x.png"
+  }
+]
